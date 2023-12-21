@@ -1,10 +1,18 @@
-let sum =  33
+// let sum =  null
 
-let stoinn = Number(sum)
+// let stoinn = Number(sum)
 
-console.log(typeof sum);
+let dekh = 1
 
-console.log(typeof stoinn)
+let boolin = Boolean(dekh)
 
-console.log(stoinn)
+console.log(typeof boolin)
+
+console.log(boolin)
+
+// console.log(typeof sum);
+
+// console.log(typeof stoinn)
+
+// console.log(stoinn)
 
